@@ -26,4 +26,5 @@ const abc = {
   y: "(",
   z: ")",
 };
-module_exports=abc
+
+module.exports=abc
