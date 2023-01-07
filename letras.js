@@ -23,8 +23,10 @@ const abc = {
   u: "1",
   v: "@",
   w: "=",
+  x:"%",
   y: "(",
   z: ")",
 };
 
 module.exports=abc
+
